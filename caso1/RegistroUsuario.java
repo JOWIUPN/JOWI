@@ -26,6 +26,6 @@ public class RegistroUsuario {
             return;
         }
 
-        System.out.println("Registro exitoso. Bienvenido, " + nombreUsuario + "!");
+        System.out.println("Registro exitoso buena. Bienvenido, " + nombreUsuario + "!");
     }
 }
